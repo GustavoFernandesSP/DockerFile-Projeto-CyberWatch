@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Security-Wings-Looca:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Security_Wings_Looca_jar</output-path>
+    <root id="archive" name="Security-Wings-Looca.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="Security-Wings-Looca" />
+      <element id="library" level="project" name="Maven: mysql:mysql-connector-java:8.0.33" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/profesorfalken/jPowerShell/3.1.1/jPowerShell-3.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/britooo/looca-api/2.2.0/looca-api-2.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/slack/api/slack-api-client/1.15.0/slack-api-client-1.15.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
